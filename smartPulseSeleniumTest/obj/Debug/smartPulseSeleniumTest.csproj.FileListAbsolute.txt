@@ -1,0 +1,14 @@
+D:\Burası\smartPulseSeleniumTest\smartPulseSeleniumTest\bin\Debug\smartPulseSeleniumTest.dll
+D:\Burası\smartPulseSeleniumTest\smartPulseSeleniumTest\bin\Debug\smartPulseSeleniumTest.pdb
+D:\Burası\smartPulseSeleniumTest\smartPulseSeleniumTest\bin\Debug\Microsoft.Analytics.UnitTest.dll
+D:\Burası\smartPulseSeleniumTest\smartPulseSeleniumTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Burası\smartPulseSeleniumTest\smartPulseSeleniumTest\bin\Debug\WebDriver.dll
+D:\Burası\smartPulseSeleniumTest\smartPulseSeleniumTest\bin\Debug\WebDriver.Support.dll
+D:\Burası\smartPulseSeleniumTest\smartPulseSeleniumTest\bin\Debug\Microsoft.Analytics.Interfaces.dll
+D:\Burası\smartPulseSeleniumTest\smartPulseSeleniumTest\bin\Debug\WebDriver.xml
+D:\Burası\smartPulseSeleniumTest\smartPulseSeleniumTest\bin\Debug\WebDriver.Support.xml
+D:\Burası\smartPulseSeleniumTest\smartPulseSeleniumTest\obj\Debug\smartPulseSeleniumTest.csproj.CoreCompileInputs.cache
+D:\Burası\smartPulseSeleniumTest\smartPulseSeleniumTest\obj\Debug\smartPulseSeleniumTest.csproj.CopyComplete
+D:\Burası\smartPulseSeleniumTest\smartPulseSeleniumTest\obj\Debug\smartPulseSeleniumTest.dll
+D:\Burası\smartPulseSeleniumTest\smartPulseSeleniumTest\obj\Debug\smartPulseSeleniumTest.pdb
+D:\Burası\smartPulseSeleniumTest\smartPulseSeleniumTest\obj\Debug\smartPulseSeleniumTest.csprojAssemblyReference.cache
